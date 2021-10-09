@@ -13,7 +13,7 @@ class Cat:
         print("speaking")
 
     """
-    Cat은 먹고, 걷고, 말하는 동작을 한다. 하지만 이러한 속성들을 logging할 필요가 있을까?
+    Cat은 먹고, 걷고, 말하는 동작을 한다. 하지만 이러한 속성들을 logging해야하는 기능이 필요가 있을까?
     """
     # def repr(self):
     #     return f"name : {self.name}, age:{self.age}"
